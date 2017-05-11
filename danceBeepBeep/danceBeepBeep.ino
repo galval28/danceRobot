@@ -22,7 +22,7 @@ const int numMoves = 3;
 
 //normal variables
 int dMove; //the current dance move being preformed
-int speedmothafucker = 100;
+int velo = 100; // the speed at which the motors are going
 int space; //space between activations of the sound
 int oSpace;
 bool sense;
